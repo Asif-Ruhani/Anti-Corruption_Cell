@@ -21,10 +21,10 @@ step 6 - Open your API
 
 
 ## Important Files 
-main.py → FastAPI entry point
-pyproject.toml → dependencies
-docker-compose.yml → backend + database
-/config/db.py → database connection
-/scripts/*.sql → SQL data
-/schemas/*.py → Pydantic models
-/models/*.py → SQLAlchemy models
+(i) main.py → FastAPI entry point
+(ii) pyproject.toml → dependencies
+(iii) docker-compose.yml → backend + database
+(iv) /config/db.py → database connection
+(v) /scripts/*.sql → SQL data
+(vi) /schemas/*.py → Pydantic models
+(vii) /models/*.py → SQLAlchemy models
