@@ -1,4 +1,14 @@
+### Anti-Corruption Cell
+A unified Web, Mobile, and API platform for reporting, managing, and resolving public complaints. The system streamlines how citizens submit issues (e.g., road damage, drainage problems, garbage issues) and how administrators monitor, categorize, and solve them through integrated dashboards and mobile tools.
 
+##Purpose of the Project
+The objective of this project is to create a digital ecosystem that bridges communication between the public and authorities. It enables: 
+*Easy submission of complaints via web or mobile app
+*Status tracking for transparency 
+*Efficient backend operations for administrators
+*Real-time updates, notifications, and attachments
+*A unified database that keeps complaint records organized 
+This system reduces manual paperwork, speeds up responses, and ensures accountability in public service management.
 
 
 
