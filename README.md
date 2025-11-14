@@ -29,6 +29,53 @@ For Admins
 * Review attachments submitted by users
 
 
+### Technology Stack
+Frontend Web (acc-web)
+
+SvelteKit
+
+TailwindCSS
+
+Vite
+
+PostCSS
+
+REST API Integration
+
+Cookie-based authentication
+
+Backend API (acc-backend)
+
+FastAPI
+
+SQLAlchemy ORM
+
+MySQL Database
+
+Pydantic Schemas
+
+Uvicorn
+
+Docker / Docker Compose
+
+Background Tasks & Notifications
+
+Mobile App (acc-app)
+
+Flutter (Dart)
+
+Android & iOS support
+
+Provider / Riverpod (depending on your code)
+
+REST API integration
+
+Local storage (SharedPreferences or Hive)
+
+Network exception handling
+
+Material UI components
+
 
 ## Method 1: Run using Docker (Recommended & EASIEST)
 Step 1 — Install Docker: https://www.docker.com/products/docker-desktop/
