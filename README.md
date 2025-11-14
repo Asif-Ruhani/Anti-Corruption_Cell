@@ -7,7 +7,8 @@ The objective of this project is to create a digital ecosystem that bridges comm
 * Status tracking for transparency 
 * Efficient backend operations for administrators
 * Real-time updates, notifications, and attachments
-* A unified database that keeps complaint records organized 
+* A unified database that keeps complaint records organized.
+
 This system reduces manual paperwork, speeds up responses, and ensures accountability in public service management.
 
 
