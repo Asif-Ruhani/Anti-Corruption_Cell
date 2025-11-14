@@ -11,7 +11,22 @@ The objective of this project is to create a digital ecosystem that bridges comm
 
 This system reduces manual paperwork, speeds up responses, and ensures accountability in public service management.
 
+##Key Features
+For Citizens (Users)
+* Create an account & login securely
+* Submit complaints with category, location & photo attachments
+* Track complaint status (Pending, Processing, Solved, Rejected)
+* Comment on complaints
+* Receive push & in-app notifications
+* Access from both web and mobile app
 
+For Admins
+* Admin dashboard for full complaint overview
+* Update complaint status & categories
+* Manage users, feedback, comments
+* View analytics: total complaints, solved, rejected, pending
+* Auto-generated user performance metrics
+* Review attachments submitted by users
 
 
 
